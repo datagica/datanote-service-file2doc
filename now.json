@@ -1,0 +1,6 @@
+{
+  "name": "datanote-service-file2doc",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
